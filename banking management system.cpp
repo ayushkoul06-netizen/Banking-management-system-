@@ -104,12 +104,10 @@ class account {
 
 
 int main(){
-    account one("ayush",378,3278,334);
-    account two("heeman",378,3278,1234);
+    
     account three("rahul",38,32,2244);
     
-    one.check_pass();
-    two.check_pass();
+    
     three.check_pass();
 
 
